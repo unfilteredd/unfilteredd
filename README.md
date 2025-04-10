@@ -1,10 +1,10 @@
-<!-- Animated Header Banner -->
+<!-- 🎉 Animated Header Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0AE98C&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+unfilteredd+%F0%9F%91%8B;I+build+tech+that+makes+an+impact.;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Vagish Bhardwaj</h1>
-<h3 align="center">Developer • Tinkerer • Tech for Impact Enthusiast</h3>
+<h3 align="center">Developer • Tinkerer • IoT + AI Explorer</h3>
 
 ---
 
@@ -19,17 +19,19 @@
 
 ## 🌟 Featured Projects
 
-| Name | What It Does | Tech |
-|------|--------------|------|
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
 | [🧘‍♂️ FiTech](https://github.com/unfilteredd/fitech) | Real-time yoga pose detection using webcam | Python, OpenCV, MediaPipe |
-| [🧠 Quizer](https://github.com/unfilteredd/Quizer) | Web quiz app with dynamic UI | HTML, CSS, JavaScript |
-| [❌⭕ Tic Tac Toe](https://github.com/unfilteredd/tic-tac-toe) | Classic game with a smooth interface | HTML, CSS, JS |
-| [💸 Wise Money](https://github.com/unfilteredd/Wise-Money-Expense-Tracker-) | Simple tracker for daily expenses | JS, Bootstrap |
-| [⛅ Know Your Weather](https://github.com/unfilteredd/Know-your-weather) | Weather app powered by live API | JavaScript, OpenWeatherMap |
+| [📡 NoPa](https://github.com/unfilteredd/NoPa--No-Proxy-Smart-Attendance-System) | RFID + Ultrasonic smart attendance system with anti-proxy logic | Arduino, RFID, Sensors |
+| [🤖 TROLL-E](https://github.com/unfilteredd/TROLL-E-Human-Following-Robot) | IoT-based robot that follows humans using sensors | Arduino, IR, Ultrasonic, Servo |
+| [💸 Wise Money](https://github.com/unfilteredd/Wise-Money-Expense-Tracker-) | Expense tracker for managing personal finance | HTML, CSS, JS |
+| [⛅ Know Your Weather](https://github.com/unfilteredd/Know-your-weather) | Real-time weather app using OpenWeather API | JavaScript, API |
+| [🧠 Quizer](https://github.com/unfilteredd/Quizer) | Web quiz app with score logic | HTML, CSS, JS |
+| [🎯 Muda-Muda](https://github.com/Ansh2004P/Muda-Muda) | ML-based DDoS detection in SDN using Mininet | Python, ML, SDN |
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
@@ -41,10 +43,15 @@
 ![CSS](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 
+**Hardware & IoT**  
+![Arduino](https://img.shields.io/badge/-Arduino-000?style=flat&logo=arduino)
+![ESP8266](https://img.shields.io/badge/-NodeMCU-000?style=flat&logo=esphome)
+![Sensors](https://img.shields.io/badge/-Ultrasonic%2C%20IR%2C%20RFID-000?style=flat)
+
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-![Arduino](https://img.shields.io/badge/-Arduino-000?style=flat&logo=arduino)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?style=flat&logo=visual-studio-code)
+![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-000?style=flat)
 
 ---
 
@@ -60,4 +67,4 @@
 ---
 
 > _"The future belongs to those who build it."_  
-> Let’s make something incredible together 🚀
+> Let’s innovate together 🚀
