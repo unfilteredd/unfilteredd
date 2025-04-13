@@ -22,9 +22,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [🧘‍♂️ FiTech](https://github.com/unfilteredd/fitech) | Real-time yoga pose detection using webcam | Python, OpenCV, MediaPipe |
-| [📡 NoPa](https://github.com/unfilteredd/NoPa--No-Proxy-Smart-Attendance-System) | RFID + Ultrasonic smart attendance system with anti-proxy logic | Arduino, RFID, Sensors |
 | [🤖 TROLL-E](https://github.com/unfilteredd/TROLL-E-Human-Following-Robot) | IoT-based robot that follows humans using sensors | Arduino, IR, Ultrasonic, Servo |
-| [💸 Wise Money](https://github.com/unfilteredd/Wise-Money-Expense-Tracker-) | Expense tracker for managing personal finance | HTML, CSS, JS |
 | [⛅ Know Your Weather](https://github.com/unfilteredd/Know-your-weather) | Real-time weather app using OpenWeather API | JavaScript, API |
 | [🧠 Quizer](https://github.com/unfilteredd/Quizer) | Web quiz app with score logic | HTML, CSS, JS |
 | [🎯 Muda-Muda](https://github.com/Ansh2004P/Muda-Muda) | ML-based DDoS detection in SDN using Mininet | Python, ML, SDN |
