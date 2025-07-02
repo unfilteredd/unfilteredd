@@ -4,16 +4,17 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Vagish Bhardwaj</h1>
-<h3 align="center">Developer • Tinkerer • IoT + AI Explorer</h3>
+<h3 align="center">Developer • Tinkerer • AI & IoT Explorer • Business Tech Strategist</h3>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Passionate about building projects that mix **AI, IoT**, and **real-world applications**
-- 🌱 Always learning something new — recently diving into **hardware-software integration**
-- 🚀 Believer in tech for **education, wellness, and smart living**
-- 📢 Always open to collaborate on impactful ideas!
+- 💻 Passionate about building projects at the intersection of **AI, Automation, and Real-world Systems**
+- 🌱 Currently diving into **AI automation platforms (n8n, ChatGPT)** and business process tools
+- 🏆 Winner – HackNocturne 2025 (AI DDoS detection for SDN)
+- 🚀 Building tech that empowers **wellness, education, and smarter workflows**
+- 📢 Open to roles in **Tech Strategy**, **Product**, or **AI-based Systems Development**
 
 ---
 
@@ -21,15 +22,16 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🧘‍♂️ FiTech](https://github.com/unfilteredd/fitech) | Real-time yoga pose detection using webcam | Python, OpenCV, MediaPipe |
-| [🤖 TROLL-E](https://github.com/unfilteredd/TROLL-E-Human-Following-Robot) | IoT-based robot that follows humans using sensors | Arduino, IR, Ultrasonic, Servo |
-| [⛅ Know Your Weather](https://github.com/unfilteredd/Know-your-weather) | Real-time weather app using OpenWeather API | JavaScript, API |
-| [🧠 Quizer](https://github.com/unfilteredd/Quizer) | Web quiz app with score logic | HTML, CSS, JS |
-| [🎯 Muda-Muda](https://github.com/Ansh2004P/Muda-Muda) | ML-based DDoS detection in SDN using Mininet | Python, ML, SDN |
+| [🤖 AI-Powered CRM Assistant](https://github.com/unfilteredd/ai-crm-assistant-n8n) | Automates sales tasks using ChatGPT + Google Sheets via n8n. | n8n, OpenAI, Google Sheets, Gmail |
+| [🧘‍♂️ FiTech](https://github.com/unfilteredd/fitech) | Real-time yoga pose evaluator with webcam feedback (90%+ accuracy). | Python, OpenCV, MediaPipe |
+| [🌐 MetaVerse-2D](https://admeet-2d.onrender.com) | Avatar-based proximity video call platform with room-based interaction. | ReactJS, Socket.IO, WebRTC |
+| [👨‍🏫 TutorX Platform](https://adm-tutorx.netlify.app) | Home tuition system with real-time match between students and teachers. | HTML, JS, Bootstrap, WordPress |
+| [🛡️ Muda-Muda](https://github.com/Ansh2004P/Muda-Muda) | ML-based DDoS detection system for SDN, built in 24-hr hackathon. | Python, ML, Mininet |
+| [⛅ Know Your Weather](https://github.com/unfilteredd/Know-your-weather) | Web app to fetch and display real-time weather via API. | JavaScript, HTML, OpenWeatherAPI |
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
@@ -40,27 +42,42 @@
 ![HTML](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
+
+**AI & Automation**  
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?style=flat&logo=openai)
+![n8n](https://img.shields.io/badge/-n8n-000?style=flat&logo=n8n)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-000?style=flat)
 
 **Hardware & IoT**  
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=flat&logo=arduino)
-![ESP8266](https://img.shields.io/badge/-NodeMCU-000?style=flat&logo=esphome)
 ![Sensors](https://img.shields.io/badge/-Ultrasonic%2C%20IR%2C%20RFID-000?style=flat)
 
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?style=flat&logo=visual-studio-code)
-![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-000?style=flat)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-000?style=flat&logo=googlesheets)
 
 ---
 
+## 📈 Highlights & Achievements
 
-## 🔗 Let's Connect
+- 🥇 **Winner** – HackNocturne 2025 (AI for cybersecurity)
+- 🏅 **Top 10** team in SIH internal hackathon (100+ teams)
+- 🧠 NTSE Qualified (2020) | Bronze – SilverZone Aptitude Olympiad
+- 🧩 Co-founder – TutorX home tuition platform (used by 50+ students)
+- 🧪 Python Developer Intern – Miraki Shipping (built REST APIs & automation)
+
+---
+
+## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagish-bhardwaj-115089252/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vagishbhardwaj135@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vagishhere@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/unfilteredd/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/unfiltered)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/vagish_bhardwaj/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/unfilteredd)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/VQ7DFGs8EtE)
 
 ---
 
