@@ -24,7 +24,7 @@
 |--------|-------------|------------|
 | [🤖 AI-Powered CRM Assistant](https://github.com/unfilteredd/ai-crm-assistant-n8n) | Automates sales tasks using ChatGPT + Google Sheets via n8n. | n8n, OpenAI, Google Sheets, Gmail |
 | [🧘‍♂️ FiTech](https://github.com/unfilteredd/fitech) | Real-time yoga pose evaluator with webcam feedback (90%+ accuracy). | Python, OpenCV, MediaPipe |
-| [🌐 MetaVerse-2D](https://admeet-2d.onrender.com) | Avatar-based proximity video call platform with room-based interaction. | ReactJS, Socket.IO, WebRTC |
+| [🌐 MetaVerse-2D](https://github.com/unfilteredd/ADMeet-2D) | Avatar-based proximity video call platform with room-based interaction. | ReactJS, Socket.IO, WebRTC |
 | [👨‍🏫 TutorX Platform](https://adm-tutorx.netlify.app) | Home tuition system with real-time match between students and teachers. | HTML, JS, Bootstrap, WordPress |
 | [🛡️ Muda-Muda](https://github.com/Ansh2004P/Muda-Muda) | ML-based DDoS detection system for SDN, built in 24-hr hackathon. | Python, ML, Mininet |
 | [⛅ Know Your Weather](https://github.com/unfilteredd/Know-your-weather) | Web app to fetch and display real-time weather via API. | JavaScript, HTML, OpenWeatherAPI |
